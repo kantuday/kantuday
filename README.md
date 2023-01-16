@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently trying to learn lots of things in data science with python
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Enhance my skills in data science
+- 🥅 2023 Goals: Enhance my skills in data science
 - ⚡ Fun fact: I love reading books and listening music
 ---
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kantuday&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Uday Kant" /></a></p>
